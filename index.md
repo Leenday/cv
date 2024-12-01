@@ -3,16 +3,40 @@ layout: home
 title: Home
 ---
 
-# About
+# Summary
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Experienced full-stack developer with 5+ years developing, designing, and implementing applications and
+other solutions using a variety of programming languages and technologies. Seeking a challenging position
+in which to leverage robust development knowledge and technical know-how as a full-stack developer.
 
-This is the home page. It can be used for a short introduction. [Click here](cv) to see the full CV, and [here](assets/files/cv.pdf) to download a print version. The theme also ships with a blog: [click here](posts) to scroll posts from the most recent. Finally, [click here](404) to see a page that can't be found.
+# Work Experience
 
-By default, the theme only contains these few pages in order to stay lean and flexible. However, it can be easily extended to accommodate more pages, [collections](https://jekyllrb.com/docs/collections/), [categories, and tags](https://jekyllrb.com/docs/posts/#tags-and-categories).
+### Full-stack Developer
+##### _June 2023 - Present_
+***
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### Ruby on Rails Developer
+##### _January 2021 - October 2022_
 
-Below is a list of blog posts included for illustrative purposes. Make sure to delete or modify them before deploying your website.
+* Worked on features related to integration with virtualization systems
+* Refinement of an existing product
+* Optimization of work with a third-party platform: pagination, code optimization
+* Hiding passwords in application logs by overriding gem methods (sidekiq, rails, httparty)
+* Writing features, the refinement of which affects the front and back
 
-{% include archive.html %}
+***
+
+### Ruby Developer
+##### _March 2020 - December 2020_
+* Optimizing the work of the project through asynchronous signal processing
+* I have prepared an onboarding for the project
+* Project health support
+* Improvements related to backup Virtual Machines
+
+***
+
+### Ruby Intern
+##### _January 2020 - March 2020_
+* Completed the Ruby on Rails internship
+
+***
