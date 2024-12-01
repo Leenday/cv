@@ -1,13 +1,13 @@
-title: cvless
-description: Jekyll theme for a beautiful online CV
+title: Denis Gorshkov CV
+description: Full-stack developer
 baseurl: ""
-url: https://piazzai.github.io/cvless
+url: https://leenday.github.io/cv/
 
 theme: cvless
 
 # site settings
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
+taglong: Full-stack developer(Ruby/Elixir/React)
+tagshort: Full-stack dev
 
 # author settings
 author:
@@ -19,20 +19,8 @@ phone: +1 234 567 890
 
 # social media links
 social:
-  facebook: username
-  x: username
-  mastodon:
-    user: username
-    domain: mastodon.social
-  bluesky:
-    user: username
-    domain: bsky.social
-  instagram: username
-  linkedin: username
-  xing: username
-  stackoverflow: 0000000/username
-  medium: username
-  github: username
+  linkedin: denis-gorshkov-66156a18a
+  github: leenday
 
 # build settings
 permalink: pretty
