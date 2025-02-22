@@ -19,7 +19,7 @@ phone: +1 234 567 890
 
 # social media links
 social:
-  linkedin: denis-gorshkov-66156a18a
+  linkedin: leenday
   github: leenday
 
 # build settings
@@ -40,4 +40,3 @@ plugins:
 
 sass:
   sourcemap: never
-  
