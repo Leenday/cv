@@ -16,6 +16,7 @@ in which to leverage robust development knowledge and technical know-how as a fu
 
 * Integrated the ActionPolicy gem and workflow to enhance authorization management
 * Developed frontend features using Vanilla JS and React, improving user experience
+* Reworked a frontend feature involving Redis, Sidekiq, and React, enhancing performance
 * Built and optimized backend features in Elixir, expanding system capabilities
 * Implemented an AI-powered assistant by integrating with OpenAI's API
 * Managed email newsletters, utilizing Mustachio templates via PostmarkApp
