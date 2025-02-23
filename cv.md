@@ -7,15 +7,47 @@ title: CV
 
 {% include contact.html %}
 
-## Section
+## Profile
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Experienced Ruby on Rails Developer with 5+ years of expertise in building scalable web applications. Skilled in React and Elixir, with a strong background in developing APIs and feature-rich solutions. Proactive in improving development processes—pioneered test writing and onboarding systems in a previous role. Passionate about clean, maintainable code and optimizing performance. Looking for opportunities to contribute technical expertise and innovation to a dynamic team.
 
-* Ut enim ad minim veniam
-* Quis nostrud exercitation
-* Ullamco laboris nisi
-* Ut aliquip ex ea commodo consequat
+## Employment History
 
-### Subsection
+### Full-stack Developer
+##### _June 2023 - Present_
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+* Integrated the ActionPolicy gem and workflow to enhance authorization management
+* Developed frontend features using Vanilla JS and React, improving user experience
+* Built and optimized backend features in Elixir, expanding system capabilities
+* Implemented an AI-powered assistant by integrating with OpenAI's API
+* Managed email newsletters, utilizing Mustachio templates via PostmarkApp
+* Automated recurring invoice processing, reducing manual workload for users
+* Optimized SQL queries for better performance, including Arel.sql usage
+* Resolved bugs and collaborated closely with QA, developers, and business stakeholders to improve product quality
+***
+
+### Ruby on Rails Developer
+##### _January 2021 - October 2022_
+
+* Worked on features related to integration with virtualization systems
+* Refinement of an existing product
+* Optimization of work with a third-party platform: pagination, code optimization
+* Hiding passwords in application logs by overriding gem methods (sidekiq, rails, httparty)
+* Writing features, the refinement of which affects the front and back
+
+***
+
+### Ruby Developer
+##### _March 2020 - December 2020_
+* Optimizing the work of the project through asynchronous signal processing
+* I have prepared an onboarding for the project
+* Project health support
+* Improvements related to backup Virtual Machines
+
+***
+
+### Ruby Intern
+##### _January 2020 - March 2020_
+* Completed the Ruby on Rails internship
+
+***

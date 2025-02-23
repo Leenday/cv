@@ -13,6 +13,16 @@ in which to leverage robust development knowledge and technical know-how as a fu
 
 ### Full-stack Developer
 ##### _June 2023 - Present_
+
+* Integrated the ActionPolicy gem and workflow to enhance authorization management
+* Developed frontend features using Vanilla JS and React, improving user experience
+* Built and optimized backend features in Elixir, expanding system capabilities
+* Implemented an AI-powered assistant by integrating with OpenAI's API
+* Managed email newsletters, utilizing Mustachio templates via PostmarkApp
+* Automated recurring invoice processing, reducing manual workload for users
+* Optimized SQL queries for better performance, including Arel.sql usage
+* Resolved bugs and collaborated closely with QA, developers, and business stakeholders to improve product quality
+
 ***
 
 ### Ruby on Rails Developer
