@@ -2,6 +2,7 @@ title: Denis Gorshkov CV
 description: Full-stack developer
 baseurl: ""
 url: https://leenday.github.io/cv/
+telegram: http://t.me/l33nday
 
 theme: cvless
 
@@ -13,6 +14,7 @@ tagshort: Full-stack dev
 author:
   name: Denis Gorshkov
   email: iammilagre@gmail.com
+  telegram_nickname: \@l33nday
 photo: assets/files/photo.jpg
 # address: Foobar Hall 1.23
 # phone: +1 234 567 890
