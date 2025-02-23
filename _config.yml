@@ -11,11 +11,11 @@ tagshort: Full-stack dev
 
 # author settings
 author:
-  name: Place Holder
-  email: username@domain.com
+  name: Denis Gorshkov
+  email: iammilagre@gmail.com
 photo: assets/files/photo.jpg
-address: Foobar Hall 1.23
-phone: +1 234 567 890
+# address: Foobar Hall 1.23
+# phone: +1 234 567 890
 
 # social media links
 profile:
