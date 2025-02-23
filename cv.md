@@ -25,6 +25,7 @@ Experienced Ruby on Rails Developer with 5+ years of expertise in building scala
 * Automated recurring invoice processing, reducing manual workload for users
 * Optimized SQL queries for better performance, including Arel.sql usage
 * Resolved bugs and collaborated closely with QA, developers, and business stakeholders to improve product quality
+
 ***
 
 ### Ruby on Rails Developer
