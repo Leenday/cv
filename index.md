@@ -23,6 +23,7 @@ in which to leverage robust development knowledge and technical know-how as a fu
 * Automated recurring invoice processing, reducing manual workload for users
 * Optimized SQL queries for better performance, including Arel.sql usage
 * Resolved bugs and collaborated closely with QA, developers, and business stakeholders to improve product quality
+* Dockerized the development environment, implementing Docker Compose for a streamlined and consistent workflow
 
 ***
 
