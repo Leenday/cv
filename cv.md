@@ -3,7 +3,10 @@ layout: cv
 title: CV
 ---
 
-# Curriculum Vitæ
+<div style="display: flex; align-items: center; gap: 10px;">
+  <h1 style="margin: 0;"><a href="{{ site.baseurl }}/assets/files/Gorshkov_Denis_Fullstack_Developer_CV.pdf">Curriculum Vitæ</a></h1>
+  <a href="{{ site.baseurl }}/assets/files/Gorshkov_Denis_Fullstack_Developer_CV.pdf" download><span class="li-icon">{% include svg/download-square-outline.svg %}</span></a>
+</div>
 
 {% include contact.html %}
 

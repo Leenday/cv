@@ -7,22 +7,37 @@ telegram: http://t.me/l33nday
 theme: cvless
 
 # site settings
+# taglong: Jekyll theme for a beautiful online CV
 taglong: Full-stack developer(Ruby/Elixir/React)
+# tagshort: Jekyll theme
 tagshort: Full-stack dev
 
 # author settings
 author:
   name: Denis Gorshkov
   email: gorshkof.denis@gmail.com
-  telegram_nickname: "@l33nday"
+  telegram_nickname: \@l33nday
 photo: assets/files/photo.jpg
 # address: Foobar Hall 1.23
 # phone: +1 234 567 890
 
 # social media links
-profile:
+social:
+  x: username
+  mastodon:
+    user: username
+    domain: mastodon.social
+  bluesky:
+    user: username
+    domain: bsky.social
+  instagram: username
+  # linkedin: denis-gorshkov-66156a18a
+  # linkedin: leenday
   linkedin: https://www.linkedin.com/in/leenday/
-  github: https://github.com/Leenday
+  xing: username
+  stackoverflow: 0000000/username
+  medium: username
+  github: leenday
 
 # build settings
 permalink: pretty
