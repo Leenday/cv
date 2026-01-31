@@ -19,16 +19,17 @@ Experienced Ruby on Rails Developer with 5+ years of expertise in building scala
 ### Full-stack Developer
 ##### _June 2023 - Present_
 
-* Integrated the ActionPolicy gem and workflow to enhance authorization management
-* Developed frontend features using Vanilla JS and React, improving user experience
-* Reworked a frontend feature involving Redis, Sidekiq, and React, enhancing performance
-* Built and optimized backend features in Elixir, expanding system capabilities
-* Implemented an AI-powered assistant by integrating with OpenAI's API
-* Managed email newsletters, utilizing Mustachio templates via PostmarkApp
-* Automated recurring invoice processing, reducing manual workload for users
-* Optimized SQL queries for better performance, including Arel.sql usage
-* Resolved bugs and collaborated closely with QA, developers, and business stakeholders to improve product quality
-* Dockerized the development environment, implementing Docker Compose for a streamlined and consistent workflow
+* Identified and mitigated a critical security vulnerability (CVE-2025-68696) in the HTTParty gem using Bundler-Audit, upgrading to a secure version to prevent SSRF attacks and potential API key leakage.
+* Integrated ActionPolicy gem and workflow to streamline authorization management and enhance security.
+* Developed frontend features using Vanilla JS and React, resulting in improved user experience and interface responsiveness.
+* Reworked a frontend feature leveraging Redis, Sidekiq, and React, boosting overall performance and efficiency.
+* Built and optimized backend features in Elixir, expanding system capabilities and scalability.
+* Implemented an AI-powered assistant via OpenAI API integration, enabling intelligent user interactions.
+* Managed email newsletters using Mustachio templates through PostmarkApp, ensuring reliable delivery and customization.
+* Automated recurring invoice processing, significantly reducing manual workload for users.
+* Optimized SQL queries for superior performance, incorporating Arel.sql for complex operations.
+* Resolved bugs and collaborated with QA, developers, and business stakeholders to elevate product quality and reliability.
+* Dockerized the development environment with Docker Compose, creating a consistent and efficient workflow for the team.
 
 ***
 
