@@ -19,42 +19,45 @@ Experienced Ruby on Rails Developer with 5+ years of expertise in building scala
 ### Full-stack Developer
 ##### _June 2023 - Present_
 
-* Identified and mitigated a critical security vulnerability (CVE-2025-68696) in the HTTParty gem using Bundler-Audit, upgrading to a secure version to prevent SSRF attacks and potential API key leakage.
-* Integrated ActionPolicy gem and workflow to streamline authorization management and enhance security.
-* Developed frontend features using Vanilla JS and React, resulting in improved user experience and interface responsiveness.
-* Reworked a frontend feature leveraging Redis, Sidekiq, and React, boosting overall performance and efficiency.
-* Built and optimized backend features in Elixir, expanding system capabilities and scalability.
-* Implemented an AI-powered assistant via OpenAI API integration, enabling intelligent user interactions.
-* Managed email newsletters using Mustachio templates through PostmarkApp, ensuring reliable delivery and customization.
-* Automated recurring invoice processing, significantly reducing manual workload for users.
-* Optimized SQL queries for superior performance, incorporating Arel.sql for complex operations.
-* Resolved bugs and collaborated with QA, developers, and business stakeholders to elevate product quality and reliability.
-* Dockerized the development environment with Docker Compose, creating a consistent and efficient workflow for the team.
+* **Mitigated** critical security vulnerability (CVE-2025-68696) in **HTTParty** gem, **preventing potential API key leakage** through SSRF attack by upgrading via Bundler-Audit.
+* **Reduced** CI test execution time by **50%** (2x faster) in **DroneCI** by integrating **parallel_tests** gem and optimizing parallelization, significantly shortening developer feedback loop.
+* **Implemented ActionPolicy** authorization system, streamlining permission management and **strengthening application security**.
+* **Developed** multiple frontend features using **React** and Vanilla JS, **significantly improving user experience and interface responsiveness**.
+* **Reworked** key frontend feature with **Redis**, **Sidekiq** and **React**, **boosting performance and efficiency**.
+* **Designed** and optimized backend services in **Elixir**, **expanding system scalability and capabilities**.
+* **Implemented AI-powered assistant** integrated with **OpenAI API**, enabling intelligent user interactions and enhancing product value.
+* **Automated** recurring invoice processing, **significantly reducing manual workload** for the team and minimizing errors.
+* **Optimized** slow **SQL queries** using **Arel.sql** and other techniques, **improving overall application performance**.
+* **Managed** email newsletters with **PostmarkApp** and **Mustachio** templates, ensuring reliable delivery and high customization.
+* **Resolved** critical bugs and closely collaborated with QA, developers and stakeholders, **elevating overall product quality and stability**.
+* **Dockerized** development environment using **Docker Compose**, achieving consistent setups and **reducing environment-related issues** across the team.
 
 ***
 
 ### Ruby on Rails Developer
 ##### _January 2021 - October 2022_
 
-* Worked on features related to integration with virtualization systems
-* Refinement of an existing product
-* Optimization of work with a third-party platform: pagination, code optimization
-* Hiding passwords in application logs by overriding gem methods (sidekiq, rails, httparty)
-* Writing features, the refinement of which affects the front and back
+* **Integrated** the application with virtualization systems, enabling seamless management and automation of virtual resources.
+* **Enhanced** existing product features, improving stability, usability and overall code quality.
+* **Optimized** integration with third-party platform by implementing pagination and code refactoring, which significantly improved performance and reliability.
+* **Enhanced** application security by hiding sensitive credentials in logs through overriding methods in **Sidekiq**, Rails and **HTTParty** gems.
+* **Developed** and refined full-stack features spanning both frontend and backend, ensuring consistent functionality across the application.
 
 ***
 
 ### Ruby Developer
 ##### _March 2020 - December 2020_
-* Optimizing the work of the project through asynchronous signal processing
-* I have prepared an onboarding for the project
-* Project health support
-* Improvements related to backup Virtual Machines
+
+* **Optimized** project performance through asynchronous signal processing, improving system responsiveness and resource efficiency.
+* **Developed** comprehensive project onboarding documentation and process, accelerating new developer ramp-up time.
+* **Maintained** project health by monitoring, fixing technical debt and proactively resolving production issues.
+* **Improved** Virtual Machines backup processes, increasing reliability and recovery capabilities.
 
 ***
 
 ### Ruby Intern
 ##### _January 2020 - March 2020_
-* Completed the Ruby on Rails internship
+
+* **Completed** intensive **Ruby on Rails** internship, gaining hands-on experience in full-stack development and production system maintenance.
 
 ***
