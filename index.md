@@ -5,7 +5,7 @@ title: Home
 
 # Summary
 
-Experienced full-stack developer with 5+ years developing, designing, and implementing applications and
+Experienced full-stack developer with 6+ years developing, designing, and implementing applications and
 other solutions using a variety of programming languages and technologies. Seeking a challenging position
 in which to leverage robust development knowledge and technical know-how as a full-stack developer.
 
@@ -14,6 +14,8 @@ in which to leverage robust development knowledge and technical know-how as a fu
 ### Full-stack Developer
 ##### _June 2023 - Present_
 
+* **Investigated** a production PostgreSQL performance bottleneck using **EXPLAIN ANALYZE**, identifying an indexing opportunity that **reduced execution time from 257 ms to 0.3 ms** for a frequently executed query on a **56M+ row PostgreSQL table**.
+* **Identified** and fixed a business-critical logic flaw in SMS rate limiting, **preventing excessive SMS requests** and reducing unnecessary operational costs.
 * **Mitigated** critical security vulnerability (CVE-2025-68696) in **HTTParty** gem, **preventing potential API key leakage** through SSRF attack by upgrading via Bundler-Audit.
 * **Reduced** CI test execution time by **50%** (2x faster) in **DroneCI** by integrating **parallel_tests** gem and optimizing parallelization, significantly shortening developer feedback loop.
 * **Implemented ActionPolicy** authorization system, streamlining permission management and **strengthening application security**.

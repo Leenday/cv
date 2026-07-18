@@ -12,13 +12,15 @@ title: CV
 
 ## Profile
 
-Experienced Ruby on Rails Developer with 5+ years of expertise in building scalable web applications. Skilled in React and Elixir, with a strong background in developing APIs and feature-rich solutions. Proactive in improving development processes—pioneered test writing and onboarding systems in a previous role. Passionate about clean, maintainable code and optimizing performance. Looking for opportunities to contribute technical expertise and innovation to a dynamic team.
+Experienced Ruby on Rails Developer with 6+ years of expertise in building scalable web applications. Skilled in React and Elixir, with a strong background in developing APIs and feature-rich solutions. Proactive in improving development processes—pioneered test writing and onboarding systems in a previous role. Passionate about clean, maintainable code and optimizing performance. Looking for opportunities to contribute technical expertise and innovation to a dynamic team.
 
 ## Employment History
 
 ### Full-stack Developer
 ##### _June 2023 - Present_
 
+* **Investigated** a production PostgreSQL performance bottleneck using **EXPLAIN ANALYZE**, identifying an indexing opportunity that **reduced execution time from 257 ms to 0.3 ms** for a frequently executed query on a **56M+ row PostgreSQL table**.
+* **Identified** and fixed a business-critical logic flaw in SMS rate limiting, **preventing excessive SMS requests** and reducing unnecessary operational costs.
 * **Mitigated** critical security vulnerability (CVE-2025-68696) in **HTTParty** gem, **preventing potential API key leakage** through SSRF attack by upgrading via Bundler-Audit.
 * **Reduced** CI test execution time by **50%** (2x faster) in **DroneCI** by integrating **parallel_tests** gem and optimizing parallelization, significantly shortening developer feedback loop.
 * **Implemented ActionPolicy** authorization system, streamlining permission management and **strengthening application security**.
