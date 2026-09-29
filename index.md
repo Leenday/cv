@@ -12,7 +12,7 @@ in which to leverage robust development knowledge and technical know-how as a fu
 # Work Experience
 
 ### Full-stack Developer
-##### _June 2023 - Present_
+##### _July 2023 - Present_
 
 * **Investigated** a production PostgreSQL performance bottleneck using **EXPLAIN ANALYZE**, identifying an indexing opportunity that **reduced execution time from 257 ms to 0.3 ms** for a frequently executed query on a **56M+ row PostgreSQL table**.
 * **Identified** and fixed a business-critical logic flaw in SMS rate limiting, **preventing excessive SMS requests** and reducing unnecessary operational costs.
@@ -43,7 +43,7 @@ in which to leverage robust development knowledge and technical know-how as a fu
 ***
 
 ### Ruby Developer
-##### _March 2020 - December 2020_
+##### _April 2020 - December 2020_
 
 * **Optimized** project performance through asynchronous signal processing, improving system responsiveness and resource efficiency.
 * **Developed** comprehensive project onboarding documentation and process, accelerating new developer ramp-up time.
