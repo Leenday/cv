@@ -8,8 +8,6 @@ title: CV
   <a href="{{ site.baseurl }}/assets/files/Gorshkov_Denis_Fullstack_Developer_CV.pdf" download><span class="li-icon">{% include svg/download-square-outline.svg %}</span></a>
 </div>
 
-PDF versions: [Full-stack]({{ site.baseurl }}/assets/files/Gorshkov_Denis_Fullstack_Developer_CV.pdf) · [Ruby on Rails]({{ site.baseurl }}/assets/files/Gorshkov_Denis_Rails_Developer_CV.pdf)
-
 {% include contact.html %}
 
 ## Profile

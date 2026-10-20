@@ -17,4 +17,4 @@ Open to relocation (visa sponsorship required) or remote.
 * **Remediated a high-severity SSRF vulnerability** in HTTParty (CVE-2025-68696).
 * **Found and fixed a business-critical flaw in SMS rate limiting**, cutting unnecessary costs.
 
-Full history on the [CV page]({{ site.baseurl }}/cv/), or download the PDF: [Full-stack]({{ site.baseurl }}/assets/files/Gorshkov_Denis_Fullstack_Developer_CV.pdf) · [Ruby on Rails]({{ site.baseurl }}/assets/files/Gorshkov_Denis_Rails_Developer_CV.pdf)
+Full history on the [CV page]({{ site.baseurl }}/cv/), or [download the PDF]({{ site.baseurl }}/assets/files/Gorshkov_Denis_Fullstack_Developer_CV.pdf).
