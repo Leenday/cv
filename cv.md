@@ -8,58 +8,77 @@ title: CV
   <a href="{{ site.baseurl }}/assets/files/Gorshkov_Denis_Fullstack_Developer_CV.pdf" download><span class="li-icon">{% include svg/download-square-outline.svg %}</span></a>
 </div>
 
+PDF versions: [Full-stack]({{ site.baseurl }}/assets/files/Gorshkov_Denis_Fullstack_Developer_CV.pdf) · [Ruby on Rails]({{ site.baseurl }}/assets/files/Gorshkov_Denis_Rails_Developer_CV.pdf)
+
 {% include contact.html %}
 
 ## Profile
 
-Experienced Ruby on Rails Developer with 6+ years of expertise in building scalable web applications. Skilled in React and Elixir, with a strong background in developing APIs and feature-rich solutions. Proactive in improving development processes—pioneered test writing and onboarding systems in a previous role. Passionate about clean, maintainable code and optimizing performance. Looking for opportunities to contribute technical expertise and innovation to a dynamic team.
+Full-stack developer with **6+ years** building and scaling production web applications with **Ruby on Rails**, **React** and **Elixir**. Delivers measurable performance and reliability wins, from cutting a hot query on a 56M-row PostgreSQL table from 257 ms to 0.3 ms to halving CI time, along with security hardening and **LLM (OpenAI API)** integration. Owns features end to end, from database to UI.
+
+Open to relocation (visa sponsorship required) or remote.
+
+## Skills
+
+* **Backend:** Ruby, Ruby on Rails, Elixir, Phoenix, Sinatra, PostgreSQL, SQL, Redis, Sidekiq, RabbitMQ, dry-rb, Ransack, ActionPolicy
+* **Frontend:** React, Redux Toolkit, JavaScript, HTML, CSS, Webpack, Vite, Bootstrap, Slim, CoffeeScript
+* **Testing & quality:** RSpec, FactoryBot, Jest, RuboCop, bundler-audit
+* **DevOps & tools:** Docker, Docker Compose, DroneCI, parallel_tests, Git, Postmark
+* **AI:** LLM features with the OpenAI API, AI-assisted development (Claude Code)
 
 ## Employment History
 
-### Full-stack Developer
+### Full-Stack Developer, PushSMS
 ##### _July 2023 - Present_
 
-* **Investigated** a production PostgreSQL performance bottleneck using **EXPLAIN ANALYZE**, identifying an indexing opportunity that **reduced execution time from 257 ms to 0.3 ms** for a frequently executed query on a **56M+ row PostgreSQL table**.
-* **Identified** and fixed a business-critical logic flaw in SMS rate limiting, **preventing excessive SMS requests** and reducing unnecessary operational costs.
-* **Mitigated** critical security vulnerability (CVE-2025-68696) in **HTTParty** gem, **preventing potential API key leakage** through SSRF attack by upgrading via Bundler-Audit.
-* **Reduced** CI test execution time by **50%** (2x faster) in **DroneCI** by integrating **parallel_tests** gem and optimizing parallelization, significantly shortening developer feedback loop.
-* **Implemented ActionPolicy** authorization system, streamlining permission management and **strengthening application security**.
-* **Developed** multiple frontend features using **React** and Vanilla JS, **significantly improving user experience and interface responsiveness**.
-* **Reworked** key frontend feature with **Redis**, **Sidekiq** and **React**, **boosting performance and efficiency**.
-* **Designed** and optimized backend services in **Elixir**, **expanding system scalability and capabilities**.
-* **Implemented AI-powered assistant** integrated with **OpenAI API**, enabling intelligent user interactions and enhancing product value.
-* **Automated** recurring invoice processing, **significantly reducing manual workload** for the team and minimizing errors.
-* **Optimized** slow **SQL queries** using **Arel.sql** and other techniques, **improving overall application performance**.
-* **Managed** email newsletters with **PostmarkApp** and **Mustachio** templates, ensuring reliable delivery and high customization.
-* **Resolved** critical bugs and closely collaborated with QA, developers and stakeholders, **elevating overall product quality and stability**.
-* **Dockerized** development environment using **Docker Compose**, achieving consistent setups and **reducing environment-related issues** across the team.
+_Product: [ChatPush](https://chatpush.ru/), a B2B platform connecting WhatsApp, Telegram and SMS messaging to CRMs (YCLIENTS, Bitrix24, amoCRM)._
+
+* **Cut a hot query from 257 ms to 0.3 ms** on a **56M+ row PostgreSQL table** by diagnosing it with **EXPLAIN ANALYZE** and adding the right index.
+* **Rebuilt a key product feature** with **React**, **Redis** and **Sidekiq** for better performance.
+* **Designed and optimised backend services in Elixir**, extending the system's scalability.
+* **Built an AI-powered assistant** on the **OpenAI API**, adding intelligent in-product interactions for users.
+* **Halved CI time (2× faster)** in **DroneCI** with **parallel_tests**, shortening the feedback loop.
+* **Remediated a high-severity SSRF vulnerability** in **HTTParty** (CVE-2025-68696) that could leak API keys, detected with **bundler-audit**.
+* **Found and fixed a business-critical flaw in SMS rate limiting**, stopping excessive SMS sends and the operational costs they caused.
+* **Introduced ActionPolicy authorisation**, centralising permission rules and tightening access control.
 
 ***
 
-### Ruby on Rails Developer
+### Professional Development, Self-directed
+##### _October 2022 - June 2023_
+
+* Dedicated study and personal projects to deepen skills across the modern web stack.
+
+***
+
+### Ruby on Rails Developer, Basistech (formerly TIONIX)
 ##### _January 2021 - October 2022_
 
-* **Integrated** the application with virtualization systems, enabling seamless management and automation of virtual resources.
-* **Enhanced** existing product features, improving stability, usability and overall code quality.
-* **Optimized** integration with third-party platform by implementing pagination and code refactoring, which significantly improved performance and reliability.
-* **Enhanced** application security by hiding sensitive credentials in logs through overriding methods in **Sidekiq**, Rails and **HTTParty** gems.
-* **Developed** and refined full-stack features spanning both frontend and backend, ensuring consistent functionality across the application.
+* **Integrated the product with virtualisation platforms**, automating management of virtual resources.
+* **Improved a third-party platform integration** with pagination and refactoring, making it faster and more reliable.
+* **Kept credentials out of logs** by overriding logging in **Sidekiq**, Rails and **HTTParty**.
 
 ***
 
-### Ruby Developer
+### Ruby Developer, At Consulting
 ##### _April 2020 - December 2020_
 
-* **Optimized** project performance through asynchronous signal processing, improving system responsiveness and resource efficiency.
-* **Developed** comprehensive project onboarding documentation and process, accelerating new developer ramp-up time.
-* **Maintained** project health by monitoring, fixing technical debt and proactively resolving production issues.
-* **Improved** Virtual Machines backup processes, increasing reliability and recovery capabilities.
+* **Improved performance** by moving signal processing to asynchronous jobs.
+* **Created the project's onboarding documentation and process**, shortening ramp-up for new developers.
+* **Made virtual machine backups more reliable** and easier to recover from.
 
 ***
 
-### Ruby Intern
+### Ruby on Rails Intern, At Consulting
 ##### _January 2020 - March 2020_
 
-* **Completed** intensive **Ruby on Rails** internship, gaining hands-on experience in full-stack development and production system maintenance.
+* Completed an intensive **Ruby on Rails** internship working on production systems.
 
 ***
+
+## Education
+
+### Specialist Degree (Master's equivalent), MSUPE
+##### _2010 - 2017_
+
+* Moved into software development in 2020 through a Ruby on Rails internship.
