@@ -1,5 +1,5 @@
 title: Denis Gorshkov CV
-description: Full-stack developer (Ruby on Rails, React, Elixir), open to relocation or remote
+description: Full-stack engineer (Ruby on Rails, React, Elixir), open to relocation or remote
 baseurl: ""
 url: https://leenday.github.io/cv
 telegram: http://t.me/l33nday
@@ -7,7 +7,7 @@ telegram: http://t.me/l33nday
 theme: cvless
 
 # site settings
-taglong: Full-stack developer (Ruby on Rails, React, Elixir)
+taglong: Full-stack engineer (Ruby on Rails, React, Elixir)
 tagshort: Full-stack dev
 
 # author settings
